@@ -10,7 +10,6 @@
 
 # 💰 OTL [One can Take Limited] 
 
-[[_TOC_]]
 
 ## 1. OTL 소개
 
